@@ -12,4 +12,4 @@ ISTC is developed by students from NUS School of Computing: Chan Jun Wei, Chua C
 
 [Final Product Video] (https://youtu.be/KFASipw75Xw)
 
-For Screenshots, see (screenshots/screenshots)
+For Screenshots, see [Screenshots](./screenshots/screenshots)
