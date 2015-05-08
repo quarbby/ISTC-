@@ -6,10 +6,17 @@ This project is supervised by Associate Professor Leow Wee Kheng from School of 
 
 This is built with Qt and C++. The server side is done using PHP. It will be migrated to the NUH Server in time to come. 
 
+This is a cross-platform development, supported on Windows, Mac, iOS (notably for iPad), Android tablets and Windows Tablets.
+
 ISTC is developed by students from NUS School of Computing: Chan Jun Wei, Chua Chin Siang, Ong Teck Sheng, Ng Hui Xian and Ong Shi Rong. 
+
+![alt text](screenshots/main page.png)
+
+Product Videos
+------
 
 [Initial GUI Walkthrough Video] (https://youtu.be/r3phvGhupF0)
 
 [Final Product Video] (https://youtu.be/KFASipw75Xw)
 
-For Screenshots, see [Screenshots](./screenshots/screenshots.md)
+For a walkthrough of Screenshots, see [Screenshots](./screenshots/screenshots.md)
