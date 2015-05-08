@@ -20,3 +20,5 @@ Product Videos
 [Final Product Video] (https://youtu.be/KFASipw75Xw)
 
 For a walkthrough of Screenshots, see [Screenshots](./screenshots/screenshots.md)
+
+Release can be found here: https://github.com/quarbby/ISTC-/releases/tag/V1.3
